@@ -1,0 +1,58 @@
+--- 
+files: 
+  certificate: 
+    wildnut_co_b3a1d_27135_1668947076_3b926f35a4012e74631e10c2a37e8655: 
+      created: '1637411076'
+      domains: 
+        - wildnut.co
+        - mail.wildnut.co
+        - www.wildnut.co
+        - cpanel.wildnut.co
+        - webmail.wildnut.co
+        - webdisk.wildnut.co
+        - cpcontacts.wildnut.co
+        - cpcalendars.wildnut.co
+        - autodiscover.wildnut.co
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “wildnut.co”
+      id: wildnut_co_b3a1d_27135_1668947076_3b926f35a4012e74631e10c2a37e8655
+      is_self_signed: 1
+      issuer.commonName: wildnut.co
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: b3a1dba8ef71ab4fd465fd5dae861871c49ebd5511425952c03d08a55f1b6981f5adf8a84ee5c01c4e769c5714738e35a9d568dd48f6aa6e5d830cbf3c0735006cb29babfe6c8d669b2e84c6debbb1a217791965790483131171346812fde46cb6d1bbabc20df3ceab1c190f90edb6090ca8c83e270da2b4a3233f37dc9087440d965d857801e8e847718b929fe0c675954038a308c30f3e0d37703524e2e4ccc92ddfcc08592722aa5fea40e8c5d565109acc18b0dc3200429099ccca98aa69554ad86bc65965b9213e585787330f4722bfc4de93ca76e3f5ef6895f62ce4fa5d86b9b22b98e5f95ed4ebaff6239ab18a6e7c92b9dc5a84f430f5e9f0427135
+      modulus_length: 2048
+      not_after: '1668947076'
+      not_before: '1637411076'
+      serial: 0155210b22
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: wildnut.co
+      validation_type: ~
+  key: 
+    b3a1d_27135_0c3ddf6f6c2e963e9eca15c148e2f7e0: 
+      created: '1637411076'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “wildnut.co”
+      id: b3a1d_27135_0c3ddf6f6c2e963e9eca15c148e2f7e0
+      key_algorithm: rsaEncryption
+      modulus: b3a1dba8ef71ab4fd465fd5dae861871c49ebd5511425952c03d08a55f1b6981f5adf8a84ee5c01c4e769c5714738e35a9d568dd48f6aa6e5d830cbf3c0735006cb29babfe6c8d669b2e84c6debbb1a217791965790483131171346812fde46cb6d1bbabc20df3ceab1c190f90edb6090ca8c83e270da2b4a3233f37dc9087440d965d857801e8e847718b929fe0c675954038a308c30f3e0d37703524e2e4ccc92ddfcc08592722aa5fea40e8c5d565109acc18b0dc3200429099ccca98aa69554ad86bc65965b9213e585787330f4722bfc4de93ca76e3f5ef6895f62ce4fa5d86b9b22b98e5f95ed4ebaff6239ab18a6e7c92b9dc5a84f430f5e9f0427135
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b3a1dba8ef71ab4fd465fd5dae861871c49ebd5511425952c03d08a55f1b6981f5adf8a84ee5c01c4e769c5714738e35a9d568dd48f6aa6e5d830cbf3c0735006cb29babfe6c8d669b2e84c6debbb1a217791965790483131171346812fde46cb6d1bbabc20df3ceab1c190f90edb6090ca8c83e270da2b4a3233f37dc9087440d965d857801e8e847718b929fe0c675954038a308c30f3e0d37703524e2e4ccc92ddfcc08592722aa5fea40e8c5d565109acc18b0dc3200429099ccca98aa69554ad86bc65965b9213e585787330f4722bfc4de93ca76e3f5ef6895f62ce4fa5d86b9b22b98e5f95ed4ebaff6239ab18a6e7c92b9dc5a84f430f5e9f0427135: 
+        wildnut_co_b3a1d_27135_1668947076_3b926f35a4012e74631e10c2a37e8655: ~
+    subject.commonName: 
+      wildnut.co: 
+        wildnut_co_b3a1d_27135_1668947076_3b926f35a4012e74631e10c2a37e8655: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “wildnut.co”: wildnut_co_b3a1d_27135_1668947076_3b926f35a4012e74631e10c2a37e8655
+  key: 
+    friendly_name: 
+      Key for “wildnut.co”: b3a1d_27135_0c3ddf6f6c2e963e9eca15c148e2f7e0
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      b3a1dba8ef71ab4fd465fd5dae861871c49ebd5511425952c03d08a55f1b6981f5adf8a84ee5c01c4e769c5714738e35a9d568dd48f6aa6e5d830cbf3c0735006cb29babfe6c8d669b2e84c6debbb1a217791965790483131171346812fde46cb6d1bbabc20df3ceab1c190f90edb6090ca8c83e270da2b4a3233f37dc9087440d965d857801e8e847718b929fe0c675954038a308c30f3e0d37703524e2e4ccc92ddfcc08592722aa5fea40e8c5d565109acc18b0dc3200429099ccca98aa69554ad86bc65965b9213e585787330f4722bfc4de93ca76e3f5ef6895f62ce4fa5d86b9b22b98e5f95ed4ebaff6239ab18a6e7c92b9dc5a84f430f5e9f0427135: b3a1d_27135_0c3ddf6f6c2e963e9eca15c148e2f7e0

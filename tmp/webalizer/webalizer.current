@@ -1,0 +1,1145 @@
+# Webalizer V2.23-05 Incremental Data - 11/15/2022 03:02:05
+2022 11 15 3 2 5
+3969 3671 194 73 17 130 212823770 239 162 0
+3 6 405 1 15
+87 82 3901183 11 10 7
+280 237 13311918 20 16 13
+81 73 3956594 11 7 4
+291 277 16186526 10 11 8
+223 202 11468816 14 15 9
+1097 1029 60853385 32 46 30
+286 263 15958668 16 15 10
+154 145 7654315 17 16 13
+413 410 24188642 16 17 13
+94 81 4137335 5 11 4
+390 332 18398262 19 21 15
+94 81 4166756 11 10 8
+229 225 13360170 14 14 12
+237 228 15231633 40 23 14
+13 6 49567 3 7 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+184 174 10467771 5
+61 61 3509864 1
+254 248 14228793 11
+129 99 7674599 11
+253 244 13197645 22
+262 251 12967605 32
+90 86 3552938 19
+478 472 27949653 16
+124 121 6990417 8
+280 278 15729229 12
+528 477 29463140 16
+9 7 65626 5
+132 92 6854429 7
+71 59 3345438 6
+249 234 13968164 14
+171 161 7388438 19
+177 129 7159807 4
+85 66 3635461 7
+80 72 3605588 9
+62 61 3513712 2
+42 41 3484686 2
+65 62 3521214 3
+178 176 10541058 7
+5 0 8495 1
+0
+0
+0
+3671
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+133
+0
+0
+0
+0
+0
+0
+162
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/swiper-bundle.min.css
+0 75 0 484814 0 0
+/images/social/icon-3.png
+0 59 0 120232 0 0
+/js/jquery.min.js
+0 78 0 3140224 0 0
+/images/products/img-6.jpg
+0 57 0 1370034 0 0
+/fonts/PacificoRegular.woff2
+0 57 0 5895504 0 0
+/images/products/img-5.jpg
+0 57 0 1030590 0 0
+/images/contact-icon-3.png
+0 58 0 167310 0 0
+/css/fonts.css
+0 76 0 55982 0 0
+/images/contact-icon-2.png
+0 58 0 142120 0 0
+/images/profile-3.png
+0 60 0 5062284 0 0
+/images/Wild-foods-logo-white.png
+0 58 0 1086690 0 0
+/images/gallery/p-10.jpg
+0 60 0 7569928 0 0
+/images/favicon/apple-icon-120x120.png
+0 3 0 35271 0 0
+/images/products/img-2.jpg
+0 57 0 1425546 0 0
+/images/products/img-4.jpg
+0 57 0 1160406 0 0
+/images/products/img-3.jpg
+0 57 0 1166508 0 0
+/images/favicon/favicon-96x96.png
+0 16 0 136128 0 0
+/fonts/GillSans.woff2
+0 57 0 1381968 0 0
+/images/left-arrow.png
+0 56 0 121211 0 0
+/images/gallery/p-1.jpg
+0 60 0 7907894 0 0
+/terms-and-condition.php
+0 17 0 157380 0 0
+/images/social/icon-1.png
+0 59 0 109480 0 0
+/images/logo.png
+0 58 0 259545 0 0
+/images/products/img-10.jpg
+0 57 0 1608606 0 0
+/favicon.ico
+0 19 0 20910 0 0
+/images/social/icon-2.png
+0 59 0 146720 0 0
+/images/right-arrow.png
+0 56 0 124974 0 0
+/images/gallery/p-4.jpg
+0 64 0 7762338 0 0
+/images/profile-1.png
+0 60 0 4540734 0 0
+/images/gallery/p-9.jpg
+0 61 0 9291084 0 0
+/images/out-approach-img.jpg
+0 63 0 22999989 0 0
+/images/gallery/p-6.jpg
+0 62 0 8558940 0 0
+/images/gallery/p-2.jpg
+0 63 0 10413371 0 0
+/images/products/img-1.jpg
+0 57 0 1371600 0 0
+/images/favicon/favicon-32x32.png
+0 20 0 49240 0 0
+/images/gallery/p-8.jpg
+0 62 0 8931420 0 0
+/images/profile-2.png
+0 61 0 4455212 0 0
+/images/favicon/android-icon-192x192.png
+0 26 0 623125 0 0
+/images/gallery/p-3.jpg
+0 62 0 13042740 0 0
+/css/bootstrap.min.css
+0 77 0 3630754 0 0
+/js/scripts.js
+0 77 0 25369 0 0
+/images/contact-icon-4.png
+0 58 0 134695 0 0
+/images/favicon/apple-icon-152x152.png
+0 3 0 51045 0 0
+/images/favicon/apple-icon-144x144.png
+0 3 0 46683 0 0
+/js/swiper-bundle.min.js
+0 78 0 4308782 0 0
+/fonts/AmericanTypewriterBold.woff2
+0 57 0 1550016 0 0
+/images/gallery/p-7.jpg
+0 62 0 9108240 0 0
+/fonts/GillSansBold.woff2
+0 57 0 1362528 0 0
+/images/bg-2.jpg
+0 58 0 3088800 0 0
+/images/contact-icon-1.png
+0 58 0 116105 0 0
+/images/banner.jpg
+0 59 0 20074545 0 0
+/images/gallery/p-5.jpg
+0 59 0 10962867 0 0
+/images/favicon/apple-icon-114x114.png
+0 2 0 21726 0 0
+/images/product-spot.png
+0 59 0 97104 0 0
+/
+0 202 0 1659754 157 32
+/images/gallery/p-11.jpg
+0 60 0 12860050 0 0
+/images/favicon/apple-icon-72x72.png
+0 3 0 17238 0 0
+/images/social/icon-4.png
+0 59 0 125160 0 0
+/images/favicon/favicon-16x16.png
+0 16 0 20768 0 0
+/css/styles.css
+0 76 0 165494 0 0
+/fonts/GillSansMedium.woff2
+0 57 0 1351944 0 0
+/images/products/img-7.jpg
+0 57 0 1162728 0 0
+/images/favicon/apple-icon-180x180.png
+0 12 0 247280 0 0
+/images/favicon/apple-icon-60x60.png
+0 2 0 9258 0 0
+/images/favicon/apple-icon-57x57.png
+0 2 0 8756 0 0
+/images/products/img-9.jpg
+0 58 0 1501335 0 0
+/images/products/img-8.jpg
+0 57 0 1462428 0 0
+/privacy-policy.php
+0 18 0 274830 0 0
+/css/responsive.css
+0 74 0 187704 0 0
+/images/logo-w.png
+0 60 0 432630 0 0
+/images/favicon/manifest.json
+0 44 0 30960 0 0
+/images/favicon/apple-icon-76x76.png
+0 2 0 12296 0 0
+/js/bootstrap.bundle.min.js
+0 79 0 2533867 0 0
+# End Of Table - urls
+# -sites- (monthly)
+87.250.224.142
+0 12 6 30370 4 1668256680
+/
+173.252.95.16
+0 1 1 4104 1 1667443960
+/
+81.185.169.131
+0 57 57 3471436 1 1668162977
+/
+173.252.107.9
+0 1 1 142649 0 0
+-
+173.252.127.14
+0 1 1 130516 0 0
+-
+54.149.212.138
+0 1 1 4104 1 1667889379
+/
+74.84.150.150
+0 1 0 703 0 0
+-
+159.138.92.248
+0 5 0 8495 1 1668123785
+-
+34.245.125.79
+0 1 1 22490 1 1667415252
+/
+54.218.82.165
+0 1 1 1150 0 0
+-
+74.72.146.58
+0 57 57 3471436 1 1667719626
+/
+205.210.31.137
+0 1 1 22490 1 1667622605
+/
+40.77.167.70
+0 2 1 24752 0 0
+-
+174.92.136.66
+0 14 10 48114 2 1668481205
+/
+18.237.32.52
+0 1 1 4104 1 1667291430
+/
+187.190.204.64
+0 58 58 3518121 1 1668034743
+/
+138.68.180.18
+0 4 4 16555 1 1667356460
+/
+185.151.217.98
+0 57 57 3473178 1 1667796839
+/
+31.9.152.81
+0 61 61 3512013 1 1667835807
+/
+66.249.66.222
+0 6 6 64100 2 1668452117
+/
+13.79.242.4
+0 20 3 96353 1 1667792250
+/
+67.174.6.93
+0 56 56 3470716 1 1667745188
+/
+195.191.219.133
+0 2 1 5445 1 1668391593
+/
+52.27.231.19
+0 1 1 1150 0 0
+-
+173.252.95.116
+0 1 1 221725 0 0
+-
+93.233.70.196
+0 57 57 3471436 1 1668298661
+/
+69.63.189.3
+0 1 1 2620 0 0
+-
+80.234.34.116
+0 1 1 4104 1 1667639684
+/
+35.91.48.119
+0 1 1 4104 1 1668146805
+/
+35.90.140.165
+0 1 1 1150 0 0
+-
+189.203.174.121
+0 2 2 8208 2 1668430375
+/
+5.0.35.235
+0 7 2 4471 1 1667706943
+/
+20.55.1.219
+0 3 0 5097 0 0
+-
+174.115.232.220
+0 60 60 3507909 1 1667718154
+/
+199.188.201.202
+0 8 0 13592 0 0
+-
+64.246.187.42
+0 2 1 5803 1 1668173457
+/
+35.86.228.40
+0 3 1 25888 1 1668152824
+-
+66.249.64.169
+0 1 0 703 0 0
+-
+65.154.226.167
+0 1 1 4104 1 1667922826
+/
+35.217.22.69
+0 2 1 5803 1 1667937231
+/
+194.38.20.161
+0 7 3 74266 4 1668378609
+-
+20.14.86.103
+0 1 0 1699 0 0
+-
+66.249.76.57
+0 12 11 101239 0 0
+-
+189.217.82.40
+0 53 53 5620956 3 1668459297
+/
+201.124.236.24
+0 59 59 3518841 1 1668378144
+/
+166.205.97.29
+0 57 10 127629 1 1668162696
+/
+23.125.220.34
+0 57 57 3471436 1 1667725349
+/
+69.63.189.4
+0 20 20 2034876 1 1668395917
+/
+212.102.55.113
+0 10 0 16990 1 1667717614
+-
+78.184.81.212
+0 1 1 22490 1 1667922819
+/
+51.179.165.172
+0 57 57 3473178 1 1667898088
+/
+54.188.160.107
+0 1 1 1150 0 0
+-
+69.160.160.55
+0 54 54 3269427 1 1667480464
+/
+185.83.146.154
+0 1 0 1699 0 0
+-
+54.214.89.142
+0 1 1 1150 0 0
+-
+43.155.65.32
+0 1 1 4104 1 1667757699
+/
+66.249.66.221
+0 6 6 33525 2 1668464552
+/
+173.252.127.20
+0 4 4 45646 0 0
+-
+46.161.207.223
+0 54 19 1970802 0 0
+-
+173.252.127.15
+0 24 24 1412599 1 1668395883
+/
+51.222.42.163
+0 12 6 34818 1 1668093999
+/
+149.34.244.168
+0 60 60 3507909 1 1667399165
+/
+92.253.231.169
+0 60 60 3507909 1 1667695498
+/
+103.143.206.12
+0 1 0 1699 0 0
+-
+128.199.166.179
+0 4 0 6796 1 1668472907
+-
+66.249.66.76
+0 3 3 43572 2 1667642956
+/
+173.252.127.6
+0 22 22 1049603 0 0
+-
+85.97.220.222
+0 57 57 3471436 1 1667719615
+/
+34.216.134.108
+0 1 1 4104 1 1667715937
+/
+91.227.68.162
+0 1 1 0 1 1668258442
+/
+37.48.183.127
+0 1 1 4104 1 1667728549
+/
+69.171.230.117
+0 1 1 192331 0 0
+-
+185.192.96.246
+0 3 1 7502 1 1667710644
+/
+35.89.154.206
+0 1 1 4104 1 1667803664
+/
+35.164.14.161
+0 59 57 3474834 1 1667522878
+/
+188.229.211.45
+0 1 1 4104 1 1667365520
+/
+95.108.213.54
+0 14 7 85607 2 1668256680
+/
+46.213.131.243
+0 1 1 4104 1 1667376292
+/
+40.77.167.13
+0 1 1 79662 0 0
+-
+200.52.76.142
+0 125 123 7117574 1 1668162823
+/
+192.71.12.140
+0 1 0 1699 0 0
+-
+31.13.127.10
+0 1 1 151804 0 0
+-
+188.252.196.176
+0 57 57 3471436 1 1667738147
+/
+178.52.134.154
+0 56 10 127629 1 1667752336
+/
+54.191.76.31
+0 1 1 4104 1 1667975247
+/
+13.80.16.157
+0 1 0 1699 0 0
+-
+35.93.55.142
+0 1 1 4104 1 1668147081
+/
+207.46.13.197
+0 2 1 32609 0 0
+-
+54.70.174.135
+0 1 1 1150 0 0
+-
+173.179.4.104
+0 62 62 3512733 2 1668354992
+/
+173.252.127.13
+0 7 7 965330 0 0
+-
+54.186.255.224
+0 1 1 1150 0 0
+-
+15.235.12.96
+0 6 6 24624 3 1668008035
+/
+66.249.66.223
+0 4 2 26387 1 1667291427
+/
+66.249.66.74
+0 6 6 43304 2 1667643641
+/
+35.161.48.197
+0 1 1 1150 0 0
+-
+199.244.88.224
+0 1 1 4104 1 1668181849
+/
+66.249.64.167
+0 1 1 15561 0 0
+-
+35.164.148.131
+0 1 1 4104 1 1668408149
+/
+31.9.129.168
+0 60 60 3507909 1 1668098452
+/
+184.154.139.51
+0 27 25 1055991 2 1668317817
+/
+142.112.230.18
+0 57 57 3471436 1 1667708221
+/
+189.217.92.97
+0 57 57 3471436 1 1667801534
+/
+54.203.10.123
+0 1 1 1150 0 0
+-
+178.52.42.67
+0 56 56 3470716 1 1668033484
+/
+87.250.224.107
+0 3 2 9907 2 1668266083
+/
+2.136.94.157
+0 1 1 1955 0 0
+-
+95.108.213.50
+0 1 1 15561 0 0
+-
+195.191.219.132
+0 2 1 5445 1 1667772587
+/
+200.68.173.34
+0 61 61 3508629 1 1667401921
+/
+192.71.103.173
+0 1 0 1699 0 0
+-
+13.112.72.225
+0 1 0 1699 0 0
+-
+5.189.170.101
+0 10 1 0 1 1667745149
+-
+70.51.197.194
+0 58 58 3518121 1 1668269236
+/
+143.244.37.6
+0 57 57 3471436 1 1667983976
+/
+192.99.34.140
+0 1 0 1699 0 0
+-
+184.154.139.50
+0 45 42 1727718 3 1668403911
+/
+52.39.214.144
+0 1 1 1150 0 0
+-
+205.210.31.25
+0 1 1 22490 1 1667558199
+/
+91.75.86.41
+0 56 56 3470716 1 1667720640
+/
+73.118.75.123
+0 57 57 3471436 1 1667756602
+/
+95.108.213.57
+0 1 0 1699 0 0
+-
+77.77.217.27
+0 1 0 1699 0 0
+-
+185.169.255.58
+0 58 58 3493916 1 1667971094
+/
+46.57.248.86
+0 61 61 3508629 1 1667899087
+/
+20.208.130.145
+0 20 3 96353 1 1667670608
+/
+112.141.52.14
+0 57 57 3471436 1 1668191742
+/
+52.13.103.17
+0 1 1 1150 0 0
+-
+77.246.74.87
+0 57 57 3471436 1 1667384545
+/
+34.218.49.158
+0 1 1 4104 1 1667629205
+/
+145.249.74.136
+0 57 57 3471436 1 1667570727
+/
+54.187.76.209
+0 1 1 1150 0 0
+-
+178.171.187.48
+0 176 176 10544151 1 1667617102
+/
+40.77.167.9
+0 1 1 37746 0 0
+-
+44.195.85.144
+0 1 1 22490 1 1668164553
+/
+191.250.180.86
+0 37 37 2597900 1 1667991331
+/
+157.55.39.163
+0 1 1 269 0 0
+-
+91.144.22.65
+0 63 63 4289490 1 1667712266
+/
+54.71.231.0
+0 1 1 1150 0 0
+-
+192.71.36.158
+0 1 1 4104 1 1667875994
+/
+5.0.16.152
+0 60 60 3507909 1 1668021975
+/
+178.52.216.122
+0 61 61 3508629 1 1667700368
+/
+184.154.76.20
+0 45 42 1727718 3 1668058286
+/
+95.90.246.180
+0 57 57 3471436 1 1667718756
+/
+138.68.235.83
+0 5 5 56433 1 1667718167
+/
+173.252.95.8
+0 1 1 4104 1 1667421012
+/
+173.252.107.24
+0 1 1 217379 0 0
+-
+173.252.127.4
+0 1 1 377049 0 0
+-
+207.46.13.53
+0 1 1 269 0 0
+-
+102.219.153.206
+0 54 54 3424367 1 1667720441
+/
+35.90.203.204
+0 1 1 4104 1 1667456119
+/
+198.235.24.30
+0 1 1 22490 1 1668347278
+/
+66.249.76.59
+0 8 8 61563 2 1668452116
+/
+77.241.128.212
+0 59 59 3518841 1 1667719619
+/
+35.165.134.105
+0 1 1 4104 1 1667371216
+/
+66.249.66.72
+0 10 8 127390 0 0
+-
+46.213.185.96
+0 60 60 3507909 1 1668028095
+/
+157.55.39.101
+0 1 1 269 0 0
+-
+185.181.60.39
+0 2 2 8208 2 1667845622
+/
+178.171.215.224
+0 60 60 3507909 1 1667570660
+/
+113.30.152.152
+0 1 1 4104 1 1667761076
+/
+66.220.149.13
+0 1 1 148857 0 0
+-
+37.48.176.55
+0 1 1 125199 0 0
+-
+35.88.244.136
+0 1 1 4104 1 1667975248
+/
+69.63.189.117
+0 2 2 138454 0 0
+-
+152.37.94.63
+0 60 60 3507909 1 1668163936
+/
+192.71.142.35
+0 1 0 1699 0 0
+-
+5.30.221.92
+0 58 58 3475540 1 1667276696
+/
+18.236.242.223
+0 1 1 1150 0 0
+-
+18.116.69.201
+0 1 1 22490 1 1668414095
+/
+198.20.67.203
+0 86 80 3179804 6 1668231396
+/
+34.217.21.53
+0 1 1 1150 0 0
+-
+157.55.39.54
+0 6 0 10194 0 0
+-
+66.249.64.164
+0 8 8 80015 1 1668351915
+/
+102.219.153.218
+0 3 3 47069 0 0
+-
+34.221.152.170
+0 1 1 4104 1 1668234063
+/
+79.141.232.250
+0 58 58 3475540 1 1668423820
+/
+54.188.175.124
+0 1 1 4104 1 1668320768
+/
+54.160.172.82
+0 4 0 6796 0 0
+-
+18.237.113.251
+0 1 1 1150 0 0
+-
+46.161.205.144
+0 64 64 4782614 2 1667823599
+/
+52.38.172.12
+0 1 1 4104 1 1668408212
+/
+87.196.72.22
+0 1 1 4104 1 1667819825
+/
+172.58.242.227
+0 58 58 3475540 1 1667722505
+/
+31.13.127.9
+0 1 1 125199 0 0
+-
+168.138.95.100
+0 1 0 1699 0 0
+-
+68.69.184.202
+0 3 2 8195 2 1668012563
+/
+198.235.24.147
+0 1 1 22490 1 1668168920
+/
+198.235.24.135
+0 1 1 22490 1 1667276575
+/
+40.88.21.235
+0 2 2 29029 1 1668261413
+/
+31.13.127.6
+0 1 1 170711 0 0
+-
+3.214.249.135
+0 3 0 5097 0 0
+-
+37.48.156.97
+0 86 86 5107054 1 1667554015
+/
+178.52.42.125
+0 60 60 3507909 1 1667696969
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+174.92.136.66
+0 7 5 24057 1 1668481205
+/
+128.199.166.179
+0 4 0 6796 1 1668472907
+-
+95.108.213.54
+0 2 1 18714 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+android-app://com.google.android.googlequicksearchbox/
+0 1
+https://l.instagram.com/
+0 40
+http://www.wildnut.co/css/fonts.css
+0 80
+http://www.google.com/url
+0 70
+http://www.wildnut.co/images/favicon/android-icon-192x192.png
+0 1
+http://wildnut.co/
+0 913
+https://www.google.com/
+0 4
+- (Direct Request)
+0 498
+http://wildnut.co/css/styles.css
+0 16
+http://m.facebook.com
+0 4
+https://lm.facebook.com/
+0 4
+http://wildnut.co
+0 14
+http://www.wildnut.co/
+0 2247
+http://wildnut.co/css/fonts.css
+0 40
+https://www.bing.com/
+0 1
+http://www.gumbo.com/
+0 3
+http://www.wildnut.co/css/styles.css
+0 32
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 254.0
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20A362 [FBAN/FBIOS;FBD
+0 63
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.110 Mobile
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; Nokia 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.83 Mobile Safari/537.36
+0 1
+ALittle Client
+0 7
+Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)
+0 8
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/106.0.5
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259
+0 57
+Mozilla/5.0 (Linux; arm_64; Android 8.0.0; ZE520KL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3694.0 Safari/537.36 Chrom
+0 59
+Mozilla/5.0 (Linux; Android 12; SM-G991W Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 60
+Mozilla/5.0 (Linux; Android 8.0.0; BAC-L21 Build/HUAWEIBAC-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 70
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Linux; Android 12; SM-G973W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+0 58
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.6
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 258
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 248
+0 58
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile S
+0 1
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 133
+Mozilla/5.0 (Linux; Android 12; SM-G973F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 2
+got (https://github.com/sindresorhus/got)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 10; SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+0 55
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0
+0 56
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 56
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 260.1
+0 114
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 1
+python-requests/2.26.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 240.1
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 258
+0 114
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 13
+cortex/1.0
+0 10
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+0 1
+MetadataScraper
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Nicecrawler/1.1; +http://www.nicecrawler.com/) Chrome/90.0.443
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 115
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B82 [FBAN/FBIOS;FBDV
+0 57
+Mozilla/5.0 (Linux; Android 12; SM-M225FV Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 60
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 41
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Sa
+0 62
+Mozilla/5.0 (Linux; Android 11; SM-A505F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 60
+Python-urllib/3.9
+0 1
+Mozilla/5.0 (Android 9; Mobile; rv:106.0) Gecko/106.0 Firefox/106.0
+0 58
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.66 Mobile/15
+0 59
+Googlebot-Image/1.0
+0 21
+Mozilla/5.0 (Linux; Android 12; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+0 57
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J710F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/17.0 Chrome/96.0.466
+0 116
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:102.0) Gecko/20100101 Firefox/102.0
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; PRA-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 258.1
+0 57
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 31
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/81.0.4044.92 Safari/537.36
+0 51
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 
+0 61
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 13
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 
+0 1
+Mozilla/5.0 (Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Mobile
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 sputnik 2.5.0.148
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 25
+Mozilla/5.0 (Linux; Android 12; SM-G975F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 60
+Mozilla/5.0 (Linux; Android 12; RMX3085 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 60
+Mozilla/5.0 (Linux; Android 11; M2102J20SG Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 172
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 
+0 61
+Mozilla/5.0 (Linux; Android 9; SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+0 58
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 248.1
+0 56
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 YaBrowser/20.12.2.105 Yowser/
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259
+0 56
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.101 Mobile/1
+0 1
+Mozilla/5.0 (Linux; Android 11; Mi A3 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/10
+0 61
+Mozilla/5.0 (Linux; Android 10; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.3
+0 3
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 4
+test
+0 2
+Mozilla/5.0 (Linux; Android 10; Mi A2 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91
+0 60
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 23
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E14
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; ef5d7a50
+0 2
+Mozilla/5.0 (Linux; Android 10; SM-N960F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 60
+Mozilla/5.0 (Linux; Android 11; ONEPLUS A6013 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 60
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 258.1
+0 58
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96
+0 1
+Mozilla/5.0 (iPad; CPU OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19G82 [FBAN/FBIOS;FBDV/iPad7,
+0 57
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 10
+python-requests/2.27.1
+0 4
+Mozilla/5.0 (Linux; Android 7.1.2; 17MB150WB Build/NZH54D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0
+0 4
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Sa
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 11; SM-A225F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-J710F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.30
+0 60
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.101 Mobile/1
+0 59
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.66 Mobile/15
+0 62
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 86
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15
+0 62
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 56
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 94
+Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Build/QKQ1.200114.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 60
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 259.0
+0 57
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 57
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/62.0
+0 1
+python-requests/2.18.4
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E
+0 2
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
