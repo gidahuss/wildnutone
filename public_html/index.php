@@ -36,17 +36,17 @@
             <div class="col-md-4">
                <div class="profile-card">
                 <div class="profile-photo">
-                    <img alt="" src="images/profile-3.png" width="224" height="239">
+                    <img alt="Gida Hussami" src="images/profile-3.png" width="224" height="239">
                 </div>
                 <h3>Gida Hussami</h3>
-                <p>Food lover, Yogi, traveller, ocean child and a hazelnut maniac</p>
+                <p>Food lover, combination advocate, traveller, ocean child and a hazelnut maniac</p>
                </div>
             </div>
 
             <div class="col-md-4">
               <div class="profile-card">
                <div class="profile-photo">
-                   <img alt="" src="images/profile-1.png" width="224" height="239">
+                   <img alt="Aya Ajami" src="images/profile-1.png" width="224" height="239">
                </div>
                <h3>Aya Ajami</h3>
                <p>Wild child at heart, sports enthusiast and a crunch addict</p>
@@ -56,7 +56,7 @@
            <div class="col-md-4">
             <div class="profile-card">
              <div class="profile-photo">
-                 <img alt="" src="images/profile-2.png" width="224" height="239">
+                 <img alt="Nadia Nahhas" src="images/profile-2.png" width="224" height="239">
              </div>
              <h3>Nadia Nahhas</h3>
              <p>Adventure seeker and a peanut butter admirer</p>
@@ -175,7 +175,7 @@
           <div class="row mb-5">
             <div class="col-lg-10 m-auto text-center">
               <h2 class="title-section mb-4 pb-2">Approach</h1>
-              <p>Wild Nut kitchen is located in the heart of Damascus. We push to hire underprivileged women, not only because we believe women and mothers have a delicate taste and familiarity in the kitchen but also for these women to stand up on their feet, be independent and lead a better life. We teach them skills which they master over time to become essential members of our handmade goods.
+              <p>The Wild Nut kitchen is located in the heart of Damascus. We push to hire underprivileged women, not only because we believe women and mothers have a delicate taste and familiarity in the kitchen but also for these women to stand up on their feet, be independent and lead a better life. We teach them skills which they master over time to become essential members of our handmade goods.
                 </p>
               <p>We are strong advocates of “you are what you eat”. This is why our product range from gluten free, sugar free, dairy free to keto friendly. We want to support all types of bodies to get the nutrition they need with clean and natural ingredients.</p>
             </div>

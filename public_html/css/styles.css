@@ -5,7 +5,7 @@
 }
 }
 body{
-	font-family: 'Gill Sans', sans-serif;
+	font-family: 'Roboto Slab', 'Gill Sans', sans-serif;
 	color:#5e2a2b;
 	font-size: 24px;
 	letter-spacing: 0;
@@ -84,7 +84,7 @@ img{
 }
 
 .title-section{
-	font-family:'Roboto Slab','American Typewriter', Arial, Helvetica, sans-serif;
+	font-family:'Roboto Slab', 'serif', 'American Typewriter', Arial, Helvetica, sans-serif;
 	font-size: 60px;
 	line-height: 1.2em;
 }
