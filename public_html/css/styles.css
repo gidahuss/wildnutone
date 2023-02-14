@@ -149,8 +149,19 @@ img{
 	margin: 25px auto;
 	text-align: center;
 }
+
+.profile-txt {
+  background-color:white;
+  font-weight: 500;
+  padding: 7px;
+}
+
 .profile-card .profile-photo{
 	margin-bottom: 15px;
+}
+
+.profile-card h3{
+  background-color:white;
 }
 .products-card{
 	text-align: center;

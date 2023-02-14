@@ -30,7 +30,7 @@
 			</section>
 
 
-      <section style="background-image: url('images/bg-2.jpg');" class="default-section profile-section py-4">
+      <section style="background-image: url('images/banner.jpg');" class="default-section profile-section py-4">
 				<div class="container">
           <div class="row">
             <div class="col-md-4">
@@ -39,7 +39,7 @@
                     <img alt="Gida Hussami" src="images/profile-3.png" width="224" height="239">
                 </div>
                 <h3>Gida Hussami</h3>
-                <p>Food lover, combination advocate, traveller, ocean child and a hazelnut maniac</p>
+                <p class='profile-txt'>Food lover, combination advocate, ocean child and a hazelnut maniac</p>
                </div>
             </div>
 
@@ -49,7 +49,7 @@
                    <img alt="Aya Ajami" src="images/profile-1.png" width="224" height="239">
                </div>
                <h3>Aya Ajami</h3>
-               <p>Wild child at heart, sports enthusiast and a crunch addict</p>
+               <p class='profile-txt'>Wild child at heart, sports enthusiast and a crunch addict</p>
               </div>
            </div>
 
@@ -59,7 +59,7 @@
                  <img alt="Nadia Nahhas" src="images/profile-2.png" width="224" height="239">
              </div>
              <h3>Nadia Nahhas</h3>
-             <p>Adventure seeker and a peanut butter admirer</p>
+             <p class='profile-txt'>Adventure seeker and a peanut butter admirer</p>
             </div>
          </div>
           </div>
@@ -177,12 +177,12 @@
               <h2 class="title-section mb-4 pb-2">Approach</h1>
               <p>The Wild Nut kitchen is located in the heart of Damascus. We push to hire underprivileged women, not only because we believe women and mothers have a delicate taste and familiarity in the kitchen but also for these women to stand up on their feet, be independent and lead a better life. We teach them skills which they master over time to become essential members of our handmade goods.
                 </p>
-              <p>We are strong advocates of “you are what you eat”. This is why our product range from gluten free, sugar free, dairy free to keto friendly. We want to support all types of bodies to get the nutrition they need with clean and natural ingredients.</p>
+              <p>We are strong advocates of “you are what you eat”. This is why our products are nutritious, with zero empty calories and ranging from gluten-free, sugar-free & dairy-free to keto-friendly. We support all types of bodies to get the energy and nutrition they need with clean and natural ingredients. We believe that we are all on to something great - keeping fit & healthy is a key ingredient!</p>
             </div>
           </div>
 				</div>
         <div class="single-img-div">
-          <img alt="" src="images/banner.jpg" width="1366" height="604" class="w-100">
+          <img alt="" src="images/threechococups-bg.jpg" width="1366" height="604" class="w-100" style='background-image: contain'>
         </div>
 			</section>
 
