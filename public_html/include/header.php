@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="descriptions" content="Your favorite healthy pantry products. Nut butters, Granolas, sugar-free chocolate, fudge bars & spices">
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Wild Nut: Wholesome & Healthy Nature-Sourced Foods" />
     <meta property="og:description" content="Wild Nut brings you deliciously wholesome products born out of a healthy lifestyle and a passion for GOOD FOOD." />
