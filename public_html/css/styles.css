@@ -240,9 +240,12 @@ opacity: 1;
 }
 
 .contact-card{
+  border-style: groove;
   align-content: center;
-	background-color: #ded0d0;
+	/* background-color: #ded0d0; */
 	padding: 30px;
+  border-color: #5e2a2b;
+  border-width: 5px;
 	-webkit-border-radius: 10px;
 -moz-border-radius: 10px;
   border-radius: 10px;
@@ -263,6 +266,12 @@ margin: 50px;
 	text-decoration: none;
 	font-size: 30px;
 	color: #5e2a2b;
+ }
+
+ .contact-list{
+  align-items: center;
+  display:flex;
+  flex-direction: column;
  }
 
  .main-footer{

@@ -51,6 +51,17 @@
 
       gtag('config', 'G-B1904SS74V');
     </script>
+    <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
+        <script>
+          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"971508006448","welcomeMessage":"Hello","zIndex":999999,"btnColorScheme":"light"};
+          var wa_widgetSetting = {"title":"Wild Nut","subTitle":"We will reply asap!","headerBackgroundColor":"#5e2a2b","headerColorScheme":"light","greetingText":"Hi there! \nHow can I help you?","ctaText":"Start Whatsapp Chat","btnColor":"#5e2a2b","cornerRadius":40,"welcomeMessage":"Hello","btnColorScheme":"light","brandImage":"","darkHeaderColorScheme":{"title":"#333333","subTitle":"#4F4F4F"}};
+          window.onload = () => {
+            _waEmbed(wa_btnSetting, wa_widgetSetting);
+          };
+        </script>
+
+
+
   <body>
     <div id="body-wrapper">
         	  <!--Main Header Started-->

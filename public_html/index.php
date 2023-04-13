@@ -33,7 +33,7 @@
       <section style="background-image: url('images/banner.jpg');" class="default-section profile-section py-4">
 				<div class="container">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
                <div class="profile-card">
                 <div class="profile-photo">
                     <img alt="Gida Hussami" src="images/profile-3.png" width="224" height="239">
@@ -43,7 +43,7 @@
                </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div class="profile-card">
                <div class="profile-photo">
                    <img alt="Aya Ajami" src="images/profile-1.png" width="224" height="239">
@@ -53,7 +53,7 @@
               </div>
            </div>
 
-           <div class="col-md-4">
+           <!-- <div class="col-md-4">
             <div class="profile-card">
              <div class="profile-photo">
                  <img alt="Nadia Nahhas" src="images/profile-2.png" width="224" height="239">
@@ -62,7 +62,7 @@
              <p class='profile-txt'>Adventure seeker and a peanut butter admirer</p>
             </div>
          </div>
-          </div>
+          </div> -->
 				</div>
 			</section>
 
@@ -246,6 +246,10 @@
               <h2 class="title-section mb-4 pb-2">Contact Us</h1>
               <p>We always love to hear from you!</p>
               <p>Don't be shy! Do reach out for any feedback, thoughts or suggestions - or just to say hello ;) </p>
+              <p>
+                <img alt="" src="images/contact-icon-4.png">
+                <a href="mailto:info@wildnut.co">info@wildnut.co</a>
+              </p>
             </div>
           </div>
           <div class="row mb-3">
@@ -281,32 +285,33 @@
             <div class="col-md-6">
               <div class="contact-card ms-lg-3">
                 <h2 class="text-center">UAE</h2>
-                <div class="d-flex align-items-center mb-3">
-                  <div class="icon">
-                    <img alt="" src="images/contact-icon-1.png">
+                <div class='contat-list'>
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="icon">
+                      <img alt="" src="images/contact-icon-1.png">
+                    </div>
+                    <div class="text">
+                      <a href="tel:+971 58 599 7180">+971 50 800 6448</a>
+                    </div>
                   </div>
-                  <div class="text">
-                    <a href="tel:+971 58 599 7180">+971 58 599 7180</a>
+                  <div class="d-flex align-items-center  mb-3">
+                    <div class="icon">
+                      <img alt="" src="images/contact-icon-2.png">
+                    </div>
+                    <div class="text">
+                      <a href="https://web.whatsapp.com/" target="_blank">+971 50 800 6448</a>
+                    </div>
                   </div>
-                </div>
-                <div class="d-flex align-items-center  mb-3">
-                  <div class="icon">
-                    <img alt="" src="images/contact-icon-2.png">
-                  </div>
-                  <div class="text">
-                    <a href="https://web.whatsapp.com/" target="_blank">+971 58 599 7180</a>
-                  </div>
-                </div>
-                <div class="d-flex align-items-center">
-                  <div class="icon">
-                    <img alt="" src="images/contact-icon-4.png">
-                  </div>
-                  <div class="text">
-                    <a href="mailto:info@wildnut.co">info@wildnut.co</a>
+                  <div class="d-flex align-items-center">
+                    <div class="icon">
+                      <img alt="" src="images/contact-icon-3.png">
+                    </div>
+                    <div class="text">
+                      <a href="https://www.instagram.com/wildnutarabia/" target="_blank">@wildnutarabia</a>
+                    </div>
                   </div>
                 </div>
               </div>
-          </div>
           </div>
 				</div>
 			</section>
