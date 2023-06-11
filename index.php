@@ -9,8 +9,7 @@ include('include/header.php');
         <div class="container">
             <div class="row h-100 align-items-center">
                 <div class="col-lg-9" style='color:#5e2a2b; background-color:white;'>
-                    <h1 class="h2">Wild Nut brings you deliciously wholesome products born out of a healthy lifestyle
-                        and a passion for GOOD FOOD.</h1>
+                    <h1 class="h2">ss</h1>
                     <p> From the earth's bounty and through a selection of its best and finest ingredients we pack-up
                         rich, delectable & incredibly nutritious foods to be savoured and to fuel you up at any time of
                         day.</p>
