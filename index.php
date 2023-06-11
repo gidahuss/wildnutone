@@ -3,8 +3,6 @@ include('include/header.php');
 
 
 ?>
-
-
 <!--Body Content Started-->
 <main class="main-body">
     <section style="background-image: url('images/banner2.webp');" class="default-section banner-section">
