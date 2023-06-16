@@ -7,7 +7,7 @@
 
       <section class="default-section policy-section section-top-border pt-0" id="our-story">
 				<div class="container">
-          <div class="logo-w text-center mb-3"><img alt="" src="images/logo-w.png" width="86" height="103"></div>
+          <div class="logo-w text-center mb-3"><img alt="wildnut logo" src="images/logo-w.png" width="86" height="103"></div>
           <div class="row">
             <div class="col-lg-10 m-auto">
               <h2 class="title-section mb-4 pb-4 text-center">Privacy Policy</h1>
