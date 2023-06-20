@@ -1,3 +1,15 @@
+<?php
+
+
+$signed_up = false;
+if (isset($_SESSION['signed_up'])) {
+    $signed_up = $_SESSION['signed_up'];
+    unset($_SESSION['signed_up']);
+}
+
+?>
+
+
 <!--Main Footer Started-->
 <footer class="main-footer">
     <div class="container">
@@ -6,7 +18,7 @@
                 <div class="d-lg-flex align-items-center">
                     <div class="footer-logo">
                         <p>a product of..</p>
-                        <a href="index.php" aria-label="logo"><img alt="wildnut logo" src="images/Wild-foods-logo-white.png"
+                        <a href="index.php" aria-label="logo"><img alt="" src="images/Wild-foods-logo-white.png"
                                                                    width="94"></a>
                     </div>
                     <ul>
@@ -23,21 +35,21 @@
             <div class="col-lg-5 d-sm-flex justify-content-center justify-content-lg-end mt-2 mt-lg-0">
                 <div class="text-center">© Wild Nut L.L.C</div>
                 <div class="footer-social-icon">
-                    <a href="https://www.facebook.com/wildwildnut/" target="_blank" aria-label="face"><img alt="facebook"
-                                                                                                           src="images/social/facebook.png"
+                    <a href="https://www.facebook.com/wildwildnut/" target="_blank" aria-label="face"><img alt=""
+                                                                                                           src="images/social/icon-1.png"
                                                                                                            width="32"
                                                                                                            height="32"></a>
                     <a href="https://www.instagram.com/wildwildnut/" target="_blank" aria-label="insta"><img alt=""
-                                                                                                             src="images/social/instagram.png"
+                                                                                                             src="images/social/icon-2.png"
                                                                                                              width="32"
                                                                                                              height="32"></a>
                     <a href="https://vm.tiktok.com/ZSe2McK8n/" target="_blank" aria-label="tiktok"><img alt=""
-                                                                                                        src="images/social/tiktok.png"
+                                                                                                        src="images/social/icon-3.png"
                                                                                                         width="32"
                                                                                                         height="32"></a>
                     <a href="https://www.youtube.com/channel/UCUfkeRXSqFsisgsf8BEdGgg" target="_blank"
                        aria-label="youtube"><img alt=""
-                                                 src="images/social/youtube.png"
+                                                 src="images/social/icon-4.png"
                                                  width="32"
                                                  height="32"></a>
                 </div>
@@ -58,6 +70,7 @@
 <div class="modal fade" id="subscription" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
+
             <div class="modal-header">
                 <button type="button" style="visibility: hidden;" class="btn-close" data-bs-dismiss="modal"
                         aria-label="Close"></button>
@@ -65,6 +78,7 @@
                     list </h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
+
             <div class="modal-body">
                 <form action="./forms/subscription.php" method="post">
                     <small>Join our wild community by leaving your email address to stay on top of product launches and
@@ -77,6 +91,17 @@
                     </div>
                     <button type="submit" class="btn btn-primary">Become a member</button>
                 </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="confirm_message" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body text-center">
+                <b>You're in!</b><br>
+                <small>You'll be first to know our juicy offers and exciting new products! </small>
             </div>
 
         </div>
@@ -149,6 +174,7 @@
         src="https://www.juicer.io/embed/wildwildnut/embed-code.js?per=9&truncate=30" async
         defer></script>
 <script>
+    var signed_up = "<?php echo $signed_up; ?>";
     var myModal = new bootstrap.Modal(document.getElementById('subscription'), {
         keyboard: false
     })
@@ -161,6 +187,13 @@
         localStorage.setItem('modal', 'true');  // set
     }
 
+    if (signed_up) {
+        var confirm = new bootstrap.Modal(document.getElementById('confirm_message'), {
+            keyboard: false
+        })
+        confirm.toggle();
+
+    }
 
     $(document).ready(function () {
 
@@ -175,7 +208,7 @@
                     let desc = dataArray[i].tagline.substring(0, 50) + '...'
                     let imageUrl = dataArray[i].image.src;
                     $('#products').append('<div class="col-sm-6 col-md-4" id="p_' + i + '"> ' +
-                        '<a href="https://shop.wildnut.co/en/shop/' + dataArray[i].slug + '" style="text-decoration: none;"><div class="products-card"> <div class="img-div"> <img alt="product spot" loading="lazy" src="images/product-spot.png" width="317" height="317"> </div> <h2>' + dataArray[i].name + '</h2> <p>' + desc + '</p> </div> </a> </div>')
+                        '<a href="https://shop.wildnut.co/en/shop/' + dataArray[i].slug + '" style="text-decoration: none;"><div class="products-card"> <div class="img-div"> <img alt="" loading="lazy" src="images/product-spot.png" width="317" height="317"> </div> <h2>' + dataArray[i].name + '</h2> <p>' + desc + '</p> </div> </a> </div>')
 
                     $('#p_' + i + ' .img-div').css("background-image", "url(" + imageUrl + ")");
                 }

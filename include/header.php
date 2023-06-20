@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +67,7 @@
     <header class="main-header">
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
-                <a class="navbar-brand d-lg-none" href="index.php"><img alt="wildnut logo" src="images/logo.png" width="80"></a>
+                <a class="navbar-brand d-lg-none" href="index.php"><img alt="" src="images/logo.png" width="80"></a>
                 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -85,7 +89,7 @@
                         </li>
                     </ul>
                     <div class="m-auto mid-logo">
-                        <a href="index.php" aria-label="logo"><img alt="wildnut logo" src="images/logo.png" width="150"> </a>
+                        <a href="index.php" aria-label="logo"><img alt="" src="images/logo.png" width="150"> </a>
                     </div>
                     <ul class="navbar-nav ms-auto  mb-lg-0 right-menu">
                         <li class="nav-item">
@@ -100,9 +104,9 @@
                         <li class="social-icon d-lg-flex align-items-center">
                             <!-- <a href="https://www.facebook.com/wildwildnut/"  target="_blank"><img alt="" src="images/social/icon-1.png" width="32" height="32"></a> -->
                             <a href="https://www.instagram.com/wildwildnut/"  aria-label="logo" target="_blank"><img alt=""
-                                                                                                  src="images/social/instagram.png"
-                                                                                                  width="32"
-                                                                                                  height="32"></a>
+                                                                                                                     src="images/social/icon-2.png"
+                                                                                                                     width="32"
+                                                                                                                     height="32"></a>
                             <!-- <a href="https://vm.tiktok.com/ZSe2McK8n/"  target="_blank"><img alt="" src="images/social/icon-3.png" width="32" height="32"></a>
                             <a href="https://www.youtube.com/channel/UCUfkeRXSqFsisgsf8BEdGgg"  target="_blank"><img alt="" src="images/social/icon-4.png" width="32" height="32"></a></div> -->
                         </li>

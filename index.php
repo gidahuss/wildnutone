@@ -1,8 +1,8 @@
 <?php
 include('include/header.php');
-
-
 ?>
+
+
 <!--Body Content Started-->
 <main class="main-body">
     <section style="background-image: url('images/banner2.webp');" class="default-section banner-section">
@@ -21,7 +21,7 @@ include('include/header.php');
 
     <section class="default-section our-story-section section-top-border pt-0 pb-4" id="our-story">
         <div class="container">
-            <div class="logo-w text-center mb-3"><img alt="wildnut logo" src="images/logo-w.png" width="86" height="103"></div>
+            <div class="logo-w text-center mb-3"><img alt="" src="images/logo-w.png" width="86" height="103"></div>
             <div class="row">
                 <div class="col-lg-10 m-auto text-center">
                     <h2 class="title-section mb-4 pb-2">A Wild Story</h2>
@@ -43,7 +43,7 @@ include('include/header.php');
                 <div class="col-md-6">
                     <div class="profile-card">
                         <div class="profile-photo">
-                            <img alt="Gida Hussami" src="images/gida-hussami.png" width="224" height="239">
+                            <img alt="Gida Hussami" src="images/profile-3.png" width="224" height="239">
                         </div>
                         <h3>Gida Hussami</h3>
                         <p class='profile-txt'>Food lover, combination advocate, ocean child and a hazelnut maniac</p>
@@ -53,19 +53,30 @@ include('include/header.php');
                 <div class="col-md-6">
                     <div class="profile-card">
                         <div class="profile-photo">
-                            <img alt="Aya Ajami" src="images/Aya-Ajami.png" width="224" height="239">
+                            <img alt="Aya Ajami" src="images/profile-1.png" width="224" height="239">
                         </div>
                         <h3>Aya Ajami</h3>
                         <p class='profile-txt'>Wild child at heart, sports enthusiast and a crunch addict</p>
                     </div>
                 </div>
+
+                <!-- <div class="col-md-4">
+                 <div class="profile-card">
+                  <div class="profile-photo">
+                      <img alt="Nadia Nahhas" src="images/profile-2.png" width="224" height="239">
+                  </div>
+                  <h3>Nadia Nahhas</h3>
+                  <p class='profile-txt'>Adventure seeker and a peanut butter admirer</p>
+                 </div>
+              </div>
+               </div> -->
             </div>
     </section>
 
 
     <section class="default-section our-products-section section-top-border pt-0 pb-5" id="our-products">
         <div class="container">
-            <div class="logo-w text-center mb-3"><img alt="wildnut logo" src="images/logo-w.png" width="86" height="103"></div>
+            <div class="logo-w text-center mb-3"><img alt="" src="images/logo-w.png" width="86" height="103"></div>
             <h2 class="title-section mb-4 pb-2 text-center">Products</h2>
             <div class="row justify-content-center" id="products">
 
@@ -75,7 +86,7 @@ include('include/header.php');
 
     <section class="default-section our-approach-section section-top-border pt-0 pb-0" id="our-approach">
         <div class="container">
-            <div class="logo-w text-center mb-3"><img alt="wildnut logo" src="images/logo-w.png" width="86" height="103"></div>
+            <div class="logo-w text-center mb-3"><img alt="" src="images/logo-w.png" width="86" height="103"></div>
             <div class="row mb-5">
                 <div class="col-lg-10 m-auto text-center">
                     <h2 class="title-section mb-4 pb-2">Approach</h2>
@@ -101,7 +112,7 @@ include('include/header.php');
 
     <section class="default-section gallery-section section-top-border pt-0 pb-5" id="gallery" style='padding:50px'>
         <div class="container-fluid p-0">
-            <div class="logo-w text-center mb-3"><img alt="wildnut logo" src="images/logo-w.png" width="86" height="103"></div>
+            <div class="logo-w text-center mb-3"><img alt="" src="images/logo-w.png" width="86" height="103"></div>
             <h2 class="title-section mb-5 pb-2 text-center">Gallery</h2>
             <script type="text/javascript"
                     src="https://www.juicer.io/embed/wildwildnut/embed-code.js?per=9&truncate=30" async
@@ -114,17 +125,17 @@ include('include/header.php');
 
     <section class="default-section contact-us-section section-top-border pt-0 pb-4" id="order-yours">
         <div class="container">
-            <div class="logo-w text-center mb-3"><img alt="wildnut logo" src="images/logo-w.png" width="86" height="103"></div>
+            <div class="logo-w text-center mb-3"><img alt="" src="images/logo-w.png" width="86" height="103"></div>
             <div class="row mb-5">
                 <div class="col-lg-10 m-auto text-center">
                     <h2 class="title-section mb-4 pb-2">Contact Us</h2>
-                        <p>We always love to hear from you!</p>
-                        <p>Don't be shy! Do reach out for any feedback, thoughts or suggestions - or just to say hello
-                            ;) </p>
-                        <p>
-                            <img alt="contact icon" src="images/contact-icon-4.png">
-                            <a href="mailto:info@wildnut.co">info@wildnut.co</a>
-                        </p>
+                    <p>We always love to hear from you!</p>
+                    <p>Don't be shy! Do reach out for any feedback, thoughts or suggestions - or just to say hello
+                        ;) </p>
+                    <p>
+                        <img alt="" src="images/contact-icon-4.png">
+                        <a href="mailto:info@wildnut.co">info@wildnut.co</a>
+                    </p>
                 </div>
             </div>
             <div class="row mb-3">
@@ -133,7 +144,7 @@ include('include/header.php');
                         <h2 class="text-center">Syria</h2>
                         <div class="d-flex align-items-center mb-3">
                             <div class="icon">
-                                <img alt="contact icon" src="images/contact-icon-1.png">
+                                <img alt="" src="images/contact-icon-1.png">
                             </div>
                             <div class="text">
                                 <a href="tel:+963 11 223 2100">+963 11 223 2100</a>
@@ -141,7 +152,7 @@ include('include/header.php');
                         </div>
                         <div class="d-flex align-items-center  mb-3">
                             <div class="icon">
-                                <img alt="contact icon" src="images/contact-icon-2.png">
+                                <img alt="" src="images/contact-icon-2.png">
                             </div>
                             <div class="text">
                                 <a href="https://web.whatsapp.com/" target="_blank">+963 968 400 885</a>
@@ -149,7 +160,7 @@ include('include/header.php');
                         </div>
                         <div class="d-flex align-items-center">
                             <div class="icon">
-                                <img alt="contact icon" src="images/contact-icon-3.png">
+                                <img alt="" src="images/contact-icon-3.png">
                             </div>
                             <div class="text">
                                 <a href="https://www.instagram.com/wildwildnut/" target="_blank">@wildwildnut</a>
@@ -163,7 +174,7 @@ include('include/header.php');
                         <div class='contat-list'>
                             <div class="d-flex align-items-center mb-3">
                                 <div class="icon">
-                                    <img alt="contact icon" src="images/contact-icon-1.png">
+                                    <img alt="" src="images/contact-icon-1.png">
                                 </div>
                                 <div class="text">
                                     <a href="tel:+971 58 599 7180">+971 50 800 6448</a>
@@ -171,7 +182,7 @@ include('include/header.php');
                             </div>
                             <div class="d-flex align-items-center  mb-3">
                                 <div class="icon">
-                                    <img alt="contact icon" src="images/contact-icon-2.png">
+                                    <img alt="" src="images/contact-icon-2.png">
                                 </div>
                                 <div class="text">
                                     <a href="https://web.whatsapp.com/" target="_blank">+971 50 800 6448</a>
@@ -179,7 +190,7 @@ include('include/header.php');
                             </div>
                             <div class="d-flex align-items-center">
                                 <div class="icon">
-                                    <img alt="contact icon" src="images/contact-icon-3.png">
+                                    <img alt="" src="images/contact-icon-3.png">
                                 </div>
                                 <div class="text">
                                     <a href="https://www.instagram.com/wildnutarabia/"
