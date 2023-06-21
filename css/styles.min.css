@@ -36,7 +36,8 @@ a, a:hover, body {
 
 body {
     font-family: 'Roboto Slab', 'Gill Sans', sans-serif;
-    font-size: 24px
+    font-size: 24px;
+    position: relative;
 }
 
 .banner-section h1, .h1, .h2, .h3, .h4, .h5, .h6, .main-footer li a, .main-header .nav-link, h1, h2, h3, h4, h5, h6 {
@@ -201,7 +202,7 @@ img {
     border-radius: 0
 }
 
-.products-card h4 {
+.products-card h2 {
     margin-bottom: 5px
 }
 
@@ -365,11 +366,11 @@ img {
     border-color: #5e2a2b
 }
 
-.products-card h4 {
+.products-card h2 {
     position: relative;
 }
 
-.products-card h4:after {
+.products-card h2:after {
     background: none repeat scroll 0 0 transparent;
     bottom: 0;
     content: "";
@@ -382,7 +383,26 @@ img {
     width: 0;
 }
 
-.products-card h4:hover:after {
+.products-card h2:hover:after {
+    width: 100%;
+    left: 0;
+}
+.navbar-nav .nav-item .nav-link{
+    position: relative;
+}
+.navbar-nav .nav-item .nav-link:after{
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #fff;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+}
+.navbar-nav .nav-item .nav-link:hover:after {
     width: 100%;
     left: 0;
 }
@@ -398,6 +418,10 @@ img {
     align-items: center;
     justify-content: center;
     z-index: 1000;
+    transition: all 0.5s;
+}
+.floating_btn.hide{
+    bottom: -100px;
 }
 
 @keyframes pulsing {
@@ -534,4 +558,24 @@ img {
     font-style: normal;
     font-size: 14px;
     line-height: 20px;
+}
+.sub-footer-btn.hide{
+    bottom: -100px;
+}
+.sub-footer-btn{
+    background-color: #5e2a2b;
+    border: 0;
+    color: #fff;
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    z-index: 1000;
+    padding: 8px;
+    border-radius: 4px;
+    min-height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    transition: all 0.5s;
+}
+.sub-footer-btn:hover{
+    /*transform: scale(1.5);*/
 }

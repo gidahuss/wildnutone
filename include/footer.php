@@ -36,37 +36,40 @@ if (isset($_SESSION['signed_up'])) {
                 <div class="text-center">© Wild Nut L.L.C</div>
                 <div class="footer-social-icon">
                     <a href="https://www.facebook.com/wildwildnut/" target="_blank" aria-label="face"><img alt=""
-                                                                                                           src="images/social/icon-1.png"
+                                                                                                           src="images/social/facebook.png"
                                                                                                            width="32"
                                                                                                            height="32"></a>
                     <a href="https://www.instagram.com/wildwildnut/" target="_blank" aria-label="insta"><img alt=""
-                                                                                                             src="images/social/icon-2.png"
+                                                                                                             src="images/social/instagram.png"
                                                                                                              width="32"
                                                                                                              height="32"></a>
                     <a href="https://vm.tiktok.com/ZSe2McK8n/" target="_blank" aria-label="tiktok"><img alt=""
-                                                                                                        src="images/social/icon-3.png"
+                                                                                                        src="images/social/tiktok.png"
                                                                                                         width="32"
                                                                                                         height="32"></a>
                     <a href="https://www.youtube.com/channel/UCUfkeRXSqFsisgsf8BEdGgg" target="_blank"
                        aria-label="youtube"><img alt=""
-                                                 src="images/social/icon-4.png"
+                                                 src="images/social/youtube.png"
                                                  width="32"
                                                  height="32"></a>
                 </div>
             </div>
-            <div class="row justify-content-center align-items-center">
-                <ul class="col-12">
-                    <li style="display: table;margin: 0 auto">
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#subscription">Subscription with email</a>
-                    </li>
-                </ul>
-            </div>
+<!--            <div class="row justify-content-center align-items-center">-->
+<!--                <ul class="col-12">-->
+<!--                    <li style="display: table;margin: 0 auto">-->
+<!--                        <a href="#" data-bs-toggle="modal" data-bs-target="#subscription" class="sub-footer-a">Subscribe to our latest news!</a>-->
+<!--                    </li>-->
+<!--                </ul>-->
+<!--            </div>-->
         </div>
     </div>
 </footer>
 <!--Main Footer Started-->
 
 </div>
+<button class="sub-footer-btn hide" data-bs-toggle="modal" data-bs-target="#subscription">
+    Subscribe to our latest news!
+</button>
 <div class="modal fade" id="subscription" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
@@ -89,7 +92,10 @@ if (isset($_SESSION['signed_up'])) {
                         <input type="email" name="email" class="form-control" id="exampleFormControlInput1"
                                placeholder="name@example.com">
                     </div>
-                    <button type="submit" class="btn btn-primary">Become a member</button>
+                    <div class="w-100 text-center">
+                        <button type="submit" class="btn btn-primary">Become a member</button>
+                    </div>
+
                 </form>
             </div>
 
@@ -108,7 +114,7 @@ if (isset($_SESSION['signed_up'])) {
     </div>
 </div>
 
-<div class="floating_btn">
+<div class="floating_btn hide" >
     <a href="#" onclick="event.preventDefault();$('#wa_widget-content').show();" aria-label="whatsapp">
         <div class="contact_icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-whatsapp"
@@ -170,9 +176,7 @@ if (isset($_SESSION['signed_up'])) {
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/swiper-bundle.min.js"></script>
 <script src="js/scripts.js"></script>
-<script type="text/javascript"
-        src="https://www.juicer.io/embed/wildwildnut/embed-code.js?per=9&truncate=30" async
-        defer></script>
+
 <script>
     var signed_up = "<?php echo $signed_up; ?>";
     var myModal = new bootstrap.Modal(document.getElementById('subscription'), {

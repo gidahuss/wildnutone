@@ -11,6 +11,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
           content="Your favorite healthy pantry products. Nut butters, Granolas, sugar-free chocolate, fudge bars & spices">
+    <meta name="keywords" content=" nut butter, peanut butter dubai,  granola dubai,  healthy food brands middle east, healthy food brands dubai, gluten-free dubai, sugar-free snacks, keto snacks dubai, wholesome food, clean food products, natural peanut butter dubai, almond butter, chocolate hazelnut healthy, natural peanut butter, international shipping, best healthy nutella,nut art">
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Wild Nut: Wholesome & Healthy Nature-Sourced Foods"/>
     <meta property="og:description"
@@ -104,7 +105,7 @@ session_start();
                         <li class="social-icon d-lg-flex align-items-center">
                             <!-- <a href="https://www.facebook.com/wildwildnut/"  target="_blank"><img alt="" src="images/social/icon-1.png" width="32" height="32"></a> -->
                             <a href="https://www.instagram.com/wildwildnut/"  aria-label="logo" target="_blank"><img alt=""
-                                                                                                                     src="images/social/icon-2.png"
+                                                                                                                     src="images/social/instagram.png"
                                                                                                                      width="32"
                                                                                                                      height="32"></a>
                             <!-- <a href="https://vm.tiktok.com/ZSe2McK8n/"  target="_blank"><img alt="" src="images/social/icon-3.png" width="32" height="32"></a>

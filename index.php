@@ -43,7 +43,7 @@ include('include/header.php');
                 <div class="col-md-6">
                     <div class="profile-card">
                         <div class="profile-photo">
-                            <img alt="Gida Hussami" src="images/profile-3.png" width="224" height="239">
+                            <img alt="Gida Hussami" src="images/gida-hussami.png" width="224" height="239">
                         </div>
                         <h3>Gida Hussami</h3>
                         <p class='profile-txt'>Food lover, combination advocate, ocean child and a hazelnut maniac</p>
@@ -53,7 +53,7 @@ include('include/header.php');
                 <div class="col-md-6">
                     <div class="profile-card">
                         <div class="profile-photo">
-                            <img alt="Aya Ajami" src="images/profile-1.png" width="224" height="239">
+                            <img alt="Aya Ajami" src="images/Aya-Ajami.png" width="224" height="239">
                         </div>
                         <h3>Aya Ajami</h3>
                         <p class='profile-txt'>Wild child at heart, sports enthusiast and a crunch addict</p>
