@@ -107,7 +107,7 @@ if (isset($_SESSION['signed_up'])) {
         <div class="modal-content">
             <div class="modal-body text-center">
                 <b>You're in!</b><br>
-                <small>You'll be first to know our juicy offers and exciting new products! </small>
+                <small>You'll be first in on our juicy offers and exciting new products!</small>
             </div>
 
         </div>
@@ -187,8 +187,11 @@ if (isset($_SESSION['signed_up'])) {
     // get
     let modal_storage = localStorage.getItem('modal');
     if (!modal_storage) {
-        myModal.toggle();
-        localStorage.setItem('modal', 'true');  // set
+        setTimeout(function (){
+            myModal.toggle();
+            localStorage.setItem('modal', 'true');  // set
+        });
+
     }
 
     if (signed_up) {
