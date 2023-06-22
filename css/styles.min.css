@@ -591,31 +591,36 @@ img {
     border: 0;
     color: #fff;
     position: fixed;
-    bottom: 35px;
-    left: 30px;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, 0);
     z-index: 1000;
     padding: 8px;
     border-radius: 4px;
     max-height: 50px;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
     transition: all 0.5s;
-    border-radius: 20px;
     padding: 10px 8px;
+    width: max-content;
+    border: 1px solid #fff;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 .sub-footer-btn:hover {
     /*transform: scale(1.5);*/
 }
-
+.modal-sm{
+    max-width: 500px;
+}
 @media (max-width: 767.98px) {
-
     .floating_btn .contact_icon{
         width: 50px;
         height: 50px;
     }
 
     .modal-dialog{
-        margin: 30px;
+        margin: 0 auto;
     }
     .modal-title{
         font-size: 16px;
@@ -631,5 +636,8 @@ img {
     }
     .modal-body form div{
         margin-top: auto;
+    }
+    .modal-sm{
+        max-width: 300px;
     }
 }

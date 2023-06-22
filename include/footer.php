@@ -54,13 +54,13 @@ if (isset($_SESSION['signed_up'])) {
                                                  height="32"></a>
                 </div>
             </div>
-<!--            <div class="row justify-content-center align-items-center">-->
-<!--                <ul class="col-12">-->
-<!--                    <li style="display: table;margin: 0 auto">-->
-<!--                        <a href="#" data-bs-toggle="modal" data-bs-target="#subscription" class="sub-footer-a">Subscribe to our latest news!</a>-->
-<!--                    </li>-->
-<!--                </ul>-->
-<!--            </div>-->
+            <!--            <div class="row justify-content-center align-items-center">-->
+            <!--                <ul class="col-12">-->
+            <!--                    <li style="display: table;margin: 0 auto">-->
+            <!--                        <a href="#" data-bs-toggle="modal" data-bs-target="#subscription" class="sub-footer-a">Subscribe to our latest news!</a>-->
+            <!--                    </li>-->
+            <!--                </ul>-->
+            <!--            </div>-->
         </div>
     </div>
 </footer>
@@ -114,7 +114,7 @@ if (isset($_SESSION['signed_up'])) {
     </div>
 </div>
 
-<div class="floating_btn hide" >
+<div class="floating_btn hide">
     <a href="#" onclick="event.preventDefault();$('#wa_widget-content').show();" aria-label="whatsapp">
         <div class="contact_icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-whatsapp"
@@ -187,10 +187,19 @@ if (isset($_SESSION['signed_up'])) {
     // get
     let modal_storage = localStorage.getItem('modal');
     if (!modal_storage) {
-        setTimeout(function (){
-            myModal.toggle();
-            localStorage.setItem('modal', 'true');  // set
-        },6000);
+
+        $(window).on('scroll resize', function() {
+
+        }).one('scroll resize', function() {
+            console.log($(this).scrollTop());
+
+                setTimeout(function () {
+                    myModal.toggle();
+                    localStorage.setItem('modal', 'true');
+                }, 3000);
+
+        });
+
 
     }
 
