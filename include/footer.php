@@ -71,7 +71,7 @@ if (isset($_SESSION['signed_up'])) {
     Subscribe to our latest news!
 </button>
 <div class="modal fade" id="subscription" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-dialog modal-dialog-centered  modal-sm">
         <div class="modal-content">
 
             <div class="modal-header">
