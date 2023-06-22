@@ -190,7 +190,7 @@ if (isset($_SESSION['signed_up'])) {
         setTimeout(function (){
             myModal.toggle();
             localStorage.setItem('modal', 'true');  // set
-        });
+        },6000);
 
     }
 

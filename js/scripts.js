@@ -31,6 +31,6 @@ $(document).ready(function () {
     setTimeout(function (){
         $('.sub-footer-btn').removeClass('hide');
         $('.floating_btn').removeClass('hide');
-    }, 3000);
+    }, 6000);
 
 });
