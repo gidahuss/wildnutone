@@ -626,7 +626,7 @@ img {
         font-size: 16px;
     }
     .modal-content{
-        height: 38vh;
+        min-height: 38vh;
     }
 
     .modal-body form{
