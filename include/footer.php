@@ -225,7 +225,7 @@ if (isset($_SESSION['signed_up'])) {
                     let desc = dataArray[i].tagline.substring(0, 50) + '...'
                     let imageUrl = dataArray[i].image.src;
                     $('#products').append('<div class="col-sm-6 col-md-4" id="p_' + i + '"> ' +
-                        '<a href="https://shop.wildnut.co/en/shop/' + dataArray[i].slug + '" style="text-decoration: none;"><div class="products-card"> <div class="img-div"> <img alt="" loading="lazy" src="images/product-spot.png" width="317" height="317"> </div> <h2>' + dataArray[i].name + '</h2> <p>' + desc + '</p> </div> </a> </div>')
+                        '<a href="https://shop.wildnut.co/en/shop/' + dataArray[i].slug + '" style="text-decoration: none;"><div class="products-card"> <div class="img-div"> <img alt="" loading="lazy" src="images/product-spot.png" width="317" height="317"> </div> <a>' + dataArray[i].name + '</a> <p>' + desc + '</p> </div> </a> </div>')
 
                     $('#p_' + i + ' .img-div').css("background-image", "url(" + imageUrl + ")");
                 }

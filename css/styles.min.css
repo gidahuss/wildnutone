@@ -212,9 +212,12 @@ img {
     border-radius: 0
 }
 
-.products-card h2 {
+.products-card a {
+    line-height: 1.2em;
+    font-family: 'American Typewriter Bold', Arial, Helvetica, sans-serif;
     margin-bottom: 5px;
     font-size: 1.2em !important;
+    font-weight: 400
 }
 
 .single-img-div {
@@ -377,11 +380,16 @@ img {
     border-color: #5e2a2b
 }
 
-.products-card h2 {
+.products-card a {
     position: relative;
+    width: calc(100%);
+    background-image: linear-gradient(transparent calc(100% - 2px), black 10px);
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    transition: background-size 1s;
 }
 
-.products-card h2:after {
+.products-card a:after {
     background: none repeat scroll 0 0 transparent;
     bottom: 0;
     content: "";
@@ -393,11 +401,13 @@ img {
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
 }
-
-.products-card h2:hover:after {
-    width: 100%;
-    left: 0;
+.products-card a:hover{
+    background-size: 100% 100%;
 }
+/*.products-card a:hover:after {*/
+/*    width: 100%;*/
+/*    left: 0;*/
+/*}*/
 
 .navbar-nav .nav-item .nav-link {
     position: relative;
