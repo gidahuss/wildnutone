@@ -216,7 +216,7 @@ img {
     line-height: 1.2em;
     font-family: 'American Typewriter Bold', Arial, Helvetica, sans-serif;
     margin-bottom: 5px;
-    font-size: 1.2em !important;
+    font-size: 1em !important;
     font-weight: 400
 }
 
@@ -402,7 +402,7 @@ img {
     width: 0;
 }
 .products-card a:hover{
-    background-size: 100% 100%;
+    background-size: 100% 90%;
 }
 /*.products-card a:hover:after {*/
 /*    width: 100%;*/
