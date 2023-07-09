@@ -26,9 +26,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $createContact = new \SendinBlue\Client\Model\CreateContact([
         'email' => $email,
-        'listIds' => []
+        'listIds' => [],
+        'attributes'=>[
+            'CHANNEL' => 1
+        ]
     ]);
     try {
+
         $_SESSION['signed_up'] = true;
         $result = $apiInstance->createContact($createContact);
         header("location: ../index.php");
